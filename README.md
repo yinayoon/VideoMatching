@@ -16,4 +16,4 @@ cmake : https://cmake.org/download/
 
  So an summary of explanation how to build openCV nonfree libraries is difficult for me. you will be able to find methods for a installation if you are searching internet.
 
-The source code made by INA 
+The source code was made by INA 
