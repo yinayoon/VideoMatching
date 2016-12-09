@@ -1,8 +1,8 @@
 # VideoMatching
 
-// This code is for a video matching and was used SURF and BRISK for getting Local Features.
+// This code is for a video matching and SURF and BRISK was used for getting Local Features.
 
-// I already tried to experiment that which feature detecter is better, so i gat a conclusion but this is just my opinion. i mean this conclusion could not generalize.
+// I already tried to some tests that which feature detecter is better, so i gat a conclusion but this is just my opinion. i mean this conclusion could not generalize.
 
 // My conclusion is that BRISK is fester than SURF and accuracy is also better. But SURF can get lots of Local Feature points. 
 
