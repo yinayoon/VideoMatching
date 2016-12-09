@@ -1,6 +1,6 @@
 # VideoMatching
 
-// This code is for a video matching as a feature detecter and this was used SURF and BRISK for getting for Local Features.
+// This code is for a video matching and this was used SURF and BRISK for getting Local Features.
 
 // I already tried to experiment that which feature detecter is better, so i gat a conclusion but this is just my opinion. i mean this conclusion could not generalize.
 
@@ -10,7 +10,7 @@
 
 // Also i was using openCV 3.1, so when you use my code, you should build for using nonfree code by cmake. 
 
-// i will write down some web site for download material for processing building the source.
+// i will write down some web sites for download material for processing building nonfree libraries.
 
 //---------------------------------------------------------------------- for building nonfree library such as SURF, SIFT.... etc
 
@@ -22,7 +22,7 @@ cmake : https://cmake.org/download/
 
 //----------------------------------------------------------------------
 
-// So an explanation is so difficult how to build openCV nonfree libraries. 
+// So an summary of explanation how to build openCV nonfree libraries is difficult. 
 
 // you could find methods for a installation if you are searching internet.
 
