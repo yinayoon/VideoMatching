@@ -1,6 +1,6 @@
 # VideoMatching
 
-// This code is for a video matching and SURF/BRISK was used for getting Local Features.
+// This code is for a video matching and SURF/BRISK was used for getting Local Features in this code.
 
 // I already tried to some tests that which feature detecter is better, so i gat a conclusion but this is just my opinion. i mean this conclusion could not generalize.
 
