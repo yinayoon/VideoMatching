@@ -23,4 +23,4 @@ So an explanation is so difficult how to build openCV nonfree libraries.
 
 you could find methods for a installation if you are searching internet.
 
-code made by INA 
+the source code made by INA 
