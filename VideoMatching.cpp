@@ -88,7 +88,7 @@ int main()
 
 		drawMatches(SourceImg, matchedSource, Capture, matchedCapture, matched_matches, result);
 		
-		if (Encoder.isOpened()) { Encoder << result; } //프레임 단위 이미지 저장
+		if (Encoder.isOpened()) { Encoder << result; }
 
 		Count++;
 		
