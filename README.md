@@ -10,7 +10,7 @@
 
 // Also i was using openCV 3.1, so when you use my code, you should build for using nonfree code by cmake. 
 
-// i will write down some web sites for download material for processing building nonfree libraries.
+// I will write down some web sites for download material for processing building nonfree libraries.
 
 //---------------------------------------------------------------------- for building nonfree library such as SURF, SIFT.... etc
 
@@ -26,4 +26,4 @@ cmake : https://cmake.org/download/
 
 // you could find methods for a installation if you are searching internet.
 
-// the source code made by INA 
+// The source code made by INA 
